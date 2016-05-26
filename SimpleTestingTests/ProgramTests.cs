@@ -52,6 +52,8 @@ namespace SimpleTesting.Tests
          Check that it doesnt return a string
          Check that it doesnt return a decimal
          Check that it doesnt return empty string + int
+
+        All tests passed so far
          */
     }
 }
